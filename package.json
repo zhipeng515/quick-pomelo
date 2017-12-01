@@ -34,7 +34,7 @@
         "underscore": "~1.8.2",
         "grunt-cli": "~0.1.13",
         "require-directory": "~2.1.1",
-        "ws" : "~0.8.0",
+        "ws" : "~3.3.2",
         "pomelo-protocol": "~0.1.6",
         "pomelo-protobuf": "~0.4.0"
     },
