@@ -47,7 +47,7 @@
         "grunt-mocha-test": "~0.12.6",
         "load-grunt-tasks": "~2.0.0",
         "blanket": "~1.1.6",
-        "redis": "~0.12.1",
-        "mongodb": "~2.0.39"
+        "redis": "~2.8.0",
+        "mongodb": "~2.2.33"
     }
 }
