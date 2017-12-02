@@ -29,7 +29,7 @@
         "postinstall": ""
     },
     "dependencies": {
-        "memdb-client": "zhipeng515/memdb-client",
+        "memdb-client": "git+http://gitlab.369.com/zhipeng/memdb-client.git",
         "lodash": "~3.10.1",
         "underscore": "~1.8.2",
         "grunt-cli": "~0.1.13",
